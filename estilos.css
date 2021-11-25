@@ -1,0 +1,29 @@
+h1 {
+  color: #333;
+  text-size-adjust: 20px;
+}
+h2 {
+  color: #666;
+  text-size-adjust: 16px;
+}
+p {
+  color: #6f6f6f;
+  text-size-adjust: 20px;
+}
+img {
+  size-adjust: 300px;
+  box-shadow: 10px;
+a {
+  color: #00f;
+  size-adjust: 12px;
+}
+ul {
+}
+li {
+  margin-block: 10px;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 20px;
+  background-color: hsl(56, 100%saturation, 95%lightness);
+}
